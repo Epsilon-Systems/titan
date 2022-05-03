@@ -1,0 +1,3 @@
+[submodule "epsy_contactos"]
+	path = epsy_contactos
+	url = C:\\Odoo\\server\\extra-addons\\titan\\epsy_contacto
