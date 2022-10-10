@@ -1,6 +1,3 @@
 [submodule "epsy_contactos"]
 	path = epsy_contactos
 	url = git@github.com:Epsilon-Systems/epsy_contactos.git
-[submodule "technical_support"]
-	path = technical_support
-	url = C:\\Odoo 15e\\server\\custom-addons\\technical_support
